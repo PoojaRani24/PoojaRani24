@@ -1,138 +1,217 @@
-# Hey, I'm Pooja 👋🏻
+# ˚₊‧꒰ა Pooja Rani ໒꒱ ‧₊˚
 
-### Senior Software Engineer · Backend · Distributed Systems · AI/GenAI
+<div align="center">
 
-I build **backend systems that scale** — from event-driven architectures and distributed workflows to AI-powered applications.
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=18&duration=3000&pause=1000&color=777777&center=true&vCenter=true&width=520&lines=Senior+Software+Engineer;Backend+%2B+Cloud+%2B+AI;currently+learning+how+LLMs+work" />
 
-Currently working primarily with **Python, AWS, DynamoDB, distributed systems, and GenAI**.
+<br>
 
----
+`python` · `aws` · `distributed systems` · `ai`
 
-## 🛠️ Tech I Work With
-
-### Backend
-
-`Python` · `FastAPI` · `Flask` · `REST APIs` · `Microservices`
-
-### Cloud & Infrastructure
-
-`AWS` · `Lambda` · `DynamoDB` · `S3` · `SQS` · `EventBridge` · `Step Functions`
-`CloudFront` · `Lambda@Edge` · `DAX` · `Docker` · `Kubernetes`
-
-### Distributed Systems
-
-`Event-Driven Architecture` · `Celery` · `RabbitMQ` · `Redis`
-`Async Processing` · `Caching` · `API Design`
-
-### AI / GenAI
-
-`OpenAI` · `LLMs` · `Prompt Engineering` · `Intent Classification`
-`Function Calling` · `Tool-backed Retrieval` · `AI Workflows`
-
-### Databases
-
-`DynamoDB` · `PostgreSQL` · `MongoDB` · `Redis`
+</div>
 
 ---
 
-## 🚀 What I Build
+## ✦ a little about me
 
-A few areas I particularly enjoy:
+```python
+class Pooja:
 
-* ⚙️ Scalable backend services
-* ☁️ Serverless & event-driven architectures
-* 🔄 Distributed workflows and asynchronous processing
-* 🗄️ High-scale data systems
-* 🤖 AI-powered backend applications
-* 🔌 Third-party API integrations
-* 📈 Systems where reliability, performance and scale actually matter
+    role = "Senior Software Engineer"
+    experience = "6 years"
 
----
+    building = [
+        "scalable backend systems",
+        "distributed workflows",
+        "cloud infrastructure",
+        "AI-powered applications",
+    ]
 
-## 🧠 Currently Exploring
+    currently_learning = [
+        "Machine Learning",
+        "LLMs",
+        "AI Engineering",
+    ]
 
-```text
-AI Engineering
-     ↓
-LLMs
-     ↓
-RAG & Tool Use
-     ↓
-AI Agents
-     ↓
-Production AI Systems
+    loves = [
+        "clean APIs",
+        "systems that scale",
+        "automating boring things",
+        "understanding how things work",
+    ]
 ```
 
-I'm currently going deeper into **Machine Learning and AI engineering**, with a focus on understanding how modern AI systems work beyond simply calling an API.
+---
+
+## ⚡ things I build
+
+### ☁️ Backend & Cloud
+
+`Python` · `FastAPI` · `AWS` · `DynamoDB`
+`Lambda` · `SQS` · `EventBridge` · `Step Functions`
+`S3` · `CloudFront` · `Lambda@Edge` · `DAX`
+
+### 🧠 AI / GenAI
+
+`OpenAI` · `LLMs` · `Prompt Engineering`
+`Function Calling` · `Tool Use` · `Intent Classification`
+AI-powered workflows & customer support automation
+
+### 🔄 Distributed Systems
+
+`Event-driven Architecture` · `Async Processing`
+`Celery` · `RabbitMQ` · `Redis` · `Caching`
+
+### 🗄️ Data
+
+`DynamoDB` · `PostgreSQL` · `MongoDB` · `Redis`
+High-scale data workflows & integrations
 
 ---
 
-## 💻 Featured Projects
+## 🚀 some things I've built
 
-### 🧩 [Arena](https://github.com/PoojaRani24/Arena)
+### 🏆 production systems
 
-A collection of **DSA implementations and problem-solving practice**, focused on building strong algorithmic fundamentals.
+Built backend systems supporting **~200K paid students**, spanning billing, onboarding, quizzes, communications, Salesforce integrations and customer support.
 
-### 🏕️ [CampNest](https://github.com/PoojaRani24/CampNest)
+### 🤖 AI
 
-A full-stack campground application built around authentication, listings and database-driven functionality.
+Built a production **WhatsApp AI chatbot** using OpenAI, intent classification, function calling and internal APIs.
 
-### 🚌 [BusTicketing](https://github.com/PoojaRani24/BusTicketing)
+### ⚙️ distributed systems
 
-A Node.js backend for managing bus tickets, ticket status and user details, backed by MongoDB and deployed on AWS EC2.
+Built event-driven workflows using **EventBridge + SQS + Lambda + Step Functions** for production automation.
 
-### 🎯 [QuoteQuest](https://github.com/PoojaRani24/QuoteQuest)
+### 🌎 at scale
 
-A Python project combining **web scraping, BeautifulSoup, CSV data processing and a guessing game**.
-
-### ✅ [Donezo](https://github.com/PoojaRani24/Donezo)
-
-A simple Node.js task-management application.
+Built edge-routing infrastructure supporting **10M+ HPE GreenLake users** using CloudFront, Lambda@Edge, DAX and DynamoDB.
 
 ---
 
-## 📚 Learning & Building
+## 🧪 currently in the lab
 
-Currently spending time on:
+```text
+                    ┌──────────────────┐
+                    │    MACHINE       │
+                    │     LEARNING     │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │       LLMs       │
+                    └────────┬─────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+            RAG          TOOL USE         AGENTS
+              │              │              │
+              └──────────────┼──────────────┘
+                             ▼
+                    ┌──────────────────┐
+                    │  AI ENGINEERING  │
+                    └──────────────────┘
+```
 
-* 🧠 Machine Learning
-* 🤖 LLMs & Generative AI
-* 🏗️ System Design
-* 💻 Data Structures & Algorithms
-* ☁️ Scalable cloud architecture
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoojaRani24&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaRani24&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PoojaRani24/PoojaRani24/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/pooja-r-189335153">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:pooja24august@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+Trying to understand what's happening **under the hood**, not just how to call the API. 👀
 
 ---
 
-<p align="center">
-  <i>Building things, breaking things, learning why they broke.</i> ☕
-</p>
+## 🧩 projects
+
+| Project                                                            | What it is                          |
+| :----------------------------------------------------------------- | :---------------------------------- |
+| 🧠 [**Arena**](https://github.com/PoojaRani24/Arena)               | DSA & algorithm practice            |
+| 🏕️ [**CampNest**](https://github.com/PoojaRani24/CampNest)        | Full-stack campground application   |
+| 🚌 [**BusTicketing**](https://github.com/PoojaRani24/BusTicketing) | Node.js + MongoDB ticketing backend |
+| 🎯 [**QuoteQuest**](https://github.com/PoojaRani24/QuoteQuest)     | Web scraping + Python guessing game |
+| ✅ [**Donezo**](https://github.com/PoojaRani24/Donezo)              | Node.js task management app         |
+
+---
+
+## 🛠️ my toolbox
+
+```text
+Languages       Python · JavaScript · SQL
+
+Backend         FastAPI · Flask · Node.js · REST APIs · Microservices
+
+AWS             Lambda · DynamoDB · S3 · SQS
+                EventBridge · Step Functions
+                CloudFront · Lambda@Edge · DAX
+
+Data            PostgreSQL · MongoDB · Redis
+
+Infrastructure  Kubernetes · Docker · Jenkins · CI/CD
+
+Messaging       RabbitMQ · Celery
+
+AI              OpenAI · LLMs · Prompt Engineering
+                Function Calling · Tool Use
+
+Integrations    Salesforce · Zoom · WhatsApp
+```
+
+---
+
+## ✦ github, lately
+
+<div align="center">
+
+🌱 **learning** → ML · LLMs · AI Engineering
+⚙️ **building** → Backend · AWS · Distributed Systems
+🧠 **practicing** → DSA · System Design
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoojaRani24&bg_color=ffffff&color=777777&line=8d7482&point=8d7482&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 contribution.exe
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PoojaRani24/PoojaRani24/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+</div>
+
+```text
+> running contribution.exe...
+
+████████████████████████████████████████ 100%
+
+status  → occasionally productive
+bugs    → always
+coffee  → required
+```
+
+---
+
+## 🌱 currently
+
+```text
+learning       → Machine Learning
+exploring      → LLMs & AI systems
+practicing     → DSA
+designing      → distributed systems
+building       → things that make me curious
+```
+
+---
+
+## 🌐 find me
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/pooja-r-189335153) ·
+[GitHub](https://github.com/PoojaRani24) ·
+[Email](mailto:pooja24august@gmail.com)
+
+<br><br>
+
+<sub>made with curiosity, caffeine & a suspicious number of terminal tabs.</sub>
+
+</div>
