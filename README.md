@@ -155,9 +155,9 @@ Currently trying to move from **“I know how to use it”** to **“I understan
 
 |     | Project                                                         | Description                         |
 | :-: | :-------------------------------------------------------------- | :---------------------------------- |
-|  🧠 | [**Arena**](https://github.com/PoojaRani24/Arena)               | DSA & algorithm practice            |
+|  🧠 | [**DSA-Interview-Prep**](https://github.com/PoojaRani24/DSA-Interview-Prep)               | DSA & algorithm practice            |
 | 🏕️ | [**CampNest**](https://github.com/PoojaRani24/CampNest)         | Full-stack campground application   |
-|  🚌 | [**BusTicketing**](https://github.com/PoojaRani24/BusTicketing) | Node.js + MongoDB ticketing backend |
+|  🚌 | [**TransitDesk**](https://github.com/PoojaRani24/TransitDesk) | Node.js + MongoDB ticketing backend |
 |  🎯 | [**QuoteQuest**](https://github.com/PoojaRani24/QuoteQuest)     | Python web scraping + guessing game |
 |  ✅  | [**Donezo**](https://github.com/PoojaRani24/Donezo)             | Node.js task management app         |
 
