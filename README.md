@@ -1,18 +1,22 @@
-# ˚₊‧꒰ა Pooja Rani ໒꒱ ‧₊˚
+# ˚₊‧ Pooja Rani ✦
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=18&duration=3000&pause=1000&color=777777&center=true&vCenter=true&width=520&lines=Senior+Software+Engineer;Backend+%2B+Cloud+%2B+AI;currently+learning+how+LLMs+work" />
+**senior software engineer · backend · cloud · AI**
 
 <br>
 
-`python` · `aws` · `distributed systems` · `ai`
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=17&duration=3000&pause=1000&color=777777&center=true&vCenter=true&width=550&lines=building+things+that+scale;learning+how+LLMs+work;turning+curiosity+into+code" />
 
 </div>
 
+<br>
+
+> I like understanding **how things work underneath** — then building something with it.
+
 ---
 
-## ✦ a little about me
+## ✦ about me
 
 ```python
 class Pooja:
@@ -20,157 +24,178 @@ class Pooja:
     role = "Senior Software Engineer"
     experience = "6 years"
 
-    building = [
-        "scalable backend systems",
-        "distributed workflows",
+    interests = [
+        "backend engineering",
+        "distributed systems",
         "cloud infrastructure",
-        "AI-powered applications",
+        "AI / GenAI",
     ]
 
-    currently_learning = [
-        "Machine Learning",
-        "LLMs",
-        "AI Engineering",
-    ]
-
-    loves = [
-        "clean APIs",
-        "systems that scale",
-        "automating boring things",
-        "understanding how things work",
+    currently = [
+        "learning machine learning",
+        "exploring LLMs",
+        "practicing DSA",
+        "designing better systems",
     ]
 ```
 
 ---
 
-## ⚡ things I build
+## ⚡ what I work with
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### ☁️ Backend & Cloud
 
-`Python` · `FastAPI` · `AWS` · `DynamoDB`
-`Lambda` · `SQS` · `EventBridge` · `Step Functions`
-`S3` · `CloudFront` · `Lambda@Edge` · `DAX`
+`Python`
+`FastAPI` · `Flask`
+`AWS` · `Lambda`
+`DynamoDB` · `S3`
+`SQS` · `EventBridge`
+`Step Functions`
+`CloudFront` · `Lambda@Edge`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔄 Systems
+
+`Microservices`
+`Event-driven Architecture`
+`Async Processing`
+`Celery` · `RabbitMQ`
+`Redis` · `Caching`
+`Kubernetes` · `Docker`
+`CI/CD`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 AI / GenAI
 
-`OpenAI` · `LLMs` · `Prompt Engineering`
-`Function Calling` · `Tool Use` · `Intent Classification`
-AI-powered workflows & customer support automation
+`OpenAI` · `LLMs`
+`Prompt Engineering`
+`Intent Classification`
+`Function Calling`
+`Tool Use`
+AI-powered workflows
 
-### 🔄 Distributed Systems
+</td>
 
-`Event-driven Architecture` · `Async Processing`
-`Celery` · `RabbitMQ` · `Redis` · `Caching`
+<td width="50%" valign="top">
 
-### 🗄️ Data
+### 🗄️ Data & Integrations
 
-`DynamoDB` · `PostgreSQL` · `MongoDB` · `Redis`
-High-scale data workflows & integrations
+`PostgreSQL` · `MongoDB`
+`DynamoDB` · `Redis`
+`Salesforce`
+`Zoom`
+`WhatsApp`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 some things I've built
+## 🚀 things I've shipped
 
-### 🏆 production systems
+**🏆 ~200K paid students**
 
-Built backend systems supporting **~200K paid students**, spanning billing, onboarding, quizzes, communications, Salesforce integrations and customer support.
+Built backend systems across billing, onboarding, quizzes, communications, Salesforce and customer support.
 
-### 🤖 AI
+**🤖 Production AI**
 
-Built a production **WhatsApp AI chatbot** using OpenAI, intent classification, function calling and internal APIs.
+Built a WhatsApp AI chatbot using **OpenAI + intent classification + function calling + internal APIs**.
 
-### ⚙️ distributed systems
+**⚙️ Event-driven systems**
 
-Built event-driven workflows using **EventBridge + SQS + Lambda + Step Functions** for production automation.
+Designed production workflows using **EventBridge + SQS + Lambda + Step Functions**.
 
-### 🌎 at scale
+**🌎 10M+ users**
 
-Built edge-routing infrastructure supporting **10M+ HPE GreenLake users** using CloudFront, Lambda@Edge, DAX and DynamoDB.
+Built edge-routing infrastructure for **HPE GreenLake** using CloudFront, Lambda@Edge, DAX and DynamoDB.
 
 ---
 
 ## 🧪 currently in the lab
 
 ```text
-                    ┌──────────────────┐
-                    │    MACHINE       │
-                    │     LEARNING     │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │       LLMs       │
-                    └────────┬─────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              ▼              ▼              ▼
-            RAG          TOOL USE         AGENTS
-              │              │              │
-              └──────────────┼──────────────┘
-                             ▼
-                    ┌──────────────────┐
-                    │  AI ENGINEERING  │
-                    └──────────────────┘
+                         ┌───────────────┐
+                         │      ML       │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     LLMs      │
+                         └───────┬───────┘
+                                 │
+                 ┌───────────────┼───────────────┐
+                 ▼               ▼               ▼
+               RAG           TOOL USE         AGENTS
+                 │               │               │
+                 └───────────────┼───────────────┘
+                                 ▼
+                         ┌───────────────┐
+                         │ AI ENGINEERING│
+                         └───────────────┘
 ```
 
-Trying to understand what's happening **under the hood**, not just how to call the API. 👀
+Currently trying to move from **“I know how to use it”** to **“I understand why it works.”** 👀
 
 ---
 
-## 🧩 projects
+## 🧩 things I've built
 
-| Project                                                            | What it is                          |
-| :----------------------------------------------------------------- | :---------------------------------- |
-| 🧠 [**Arena**](https://github.com/PoojaRani24/Arena)               | DSA & algorithm practice            |
-| 🏕️ [**CampNest**](https://github.com/PoojaRani24/CampNest)        | Full-stack campground application   |
-| 🚌 [**BusTicketing**](https://github.com/PoojaRani24/BusTicketing) | Node.js + MongoDB ticketing backend |
-| 🎯 [**QuoteQuest**](https://github.com/PoojaRani24/QuoteQuest)     | Web scraping + Python guessing game |
-| ✅ [**Donezo**](https://github.com/PoojaRani24/Donezo)              | Node.js task management app         |
+|     | Project                                                         | Description                         |
+| :-: | :-------------------------------------------------------------- | :---------------------------------- |
+|  🧠 | [**Arena**](https://github.com/PoojaRani24/Arena)               | DSA & algorithm practice            |
+| 🏕️ | [**CampNest**](https://github.com/PoojaRani24/CampNest)         | Full-stack campground application   |
+|  🚌 | [**BusTicketing**](https://github.com/PoojaRani24/BusTicketing) | Node.js + MongoDB ticketing backend |
+|  🎯 | [**QuoteQuest**](https://github.com/PoojaRani24/QuoteQuest)     | Python web scraping + guessing game |
+|  ✅  | [**Donezo**](https://github.com/PoojaRani24/Donezo)             | Node.js task management app         |
 
 ---
 
-## 🛠️ my toolbox
+## 🧠 learning queue
 
 ```text
-Languages       Python · JavaScript · SQL
-
-Backend         FastAPI · Flask · Node.js · REST APIs · Microservices
-
-AWS             Lambda · DynamoDB · S3 · SQS
-                EventBridge · Step Functions
-                CloudFront · Lambda@Edge · DAX
-
-Data            PostgreSQL · MongoDB · Redis
-
-Infrastructure  Kubernetes · Docker · Jenkins · CI/CD
-
-Messaging       RabbitMQ · Celery
-
-AI              OpenAI · LLMs · Prompt Engineering
-                Function Calling · Tool Use
-
-Integrations    Salesforce · Zoom · WhatsApp
+┌─────────────────────────────────────────────┐
+│                                             │
+│   ✓ Backend Engineering                     │
+│   ✓ Cloud & Distributed Systems             │
+│   → Machine Learning                        │
+│   → LLMs                                    │
+│   → RAG & Agents                            │
+│   → AI Engineering                          │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
----
-
-## ✦ github, lately
-
-<div align="center">
-
-🌱 **learning** → ML · LLMs · AI Engineering
-⚙️ **building** → Backend · AWS · Distributed Systems
-🧠 **practicing** → DSA · System Design
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoojaRani24&bg_color=ffffff&color=777777&line=8d7482&point=8d7482&area=true&hide_border=true" width="95%"/>
-
-</div>
+No particular order.
+Just following whatever rabbit hole looks interesting. 🐇
 
 ---
 
 ## 🐍 contribution.exe
+
+```text
+> ./contribution.exe
+
+initializing...
+████████████████████████████████ 100%
+
+commits        → yes
+bugs           → unfortunately
+refactoring    → always
+coffee         → mandatory
+```
 
 <div align="center">
 
@@ -178,26 +203,15 @@ Integrations    Salesforce · Zoom · WhatsApp
 
 </div>
 
-```text
-> running contribution.exe...
-
-████████████████████████████████████████ 100%
-
-status  → occasionally productive
-bugs    → always
-coffee  → required
-```
-
 ---
 
-## 🌱 currently
+## ✦ outside the code
 
 ```text
-learning       → Machine Learning
-exploring      → LLMs & AI systems
-practicing     → DSA
-designing      → distributed systems
-building       → things that make me curious
+curious about      → how things work
+enjoy              → building small weird projects
+currently reading  → documentation I probably should have read earlier
+terminal tabs      → too many
 ```
 
 ---
@@ -206,12 +220,14 @@ building       → things that make me curious
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/pooja-r-189335153) ·
-[GitHub](https://github.com/PoojaRani24) ·
+[GitHub](https://github.com/PoojaRani24)
+  ·  
+[LinkedIn](https://www.linkedin.com/in/pooja-r-189335153)
+  ·  
 [Email](mailto:pooja24august@gmail.com)
 
 <br><br>
 
-<sub>made with curiosity, caffeine & a suspicious number of terminal tabs.</sub>
+˚₊‧ just building things and seeing where they go ‧₊˚
 
 </div>
