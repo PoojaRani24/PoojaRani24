@@ -226,7 +226,6 @@ terminal tabs      → too many
   ·  
 [Email](mailto:pooja24august@gmail.com)
 
-<br><br>
 
 ˚₊‧ just building things and seeing where they go ‧₊˚
 
