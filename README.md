@@ -106,7 +106,7 @@ AI-powered workflows
 
 ## 🚀 things I've shipped
 
-**🏆 ~200K paid students**
+**🏆 ~200K enrollments**
 
 Built backend systems across billing, onboarding, quizzes, communications, Salesforce and customer support.
 
